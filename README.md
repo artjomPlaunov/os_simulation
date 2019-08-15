@@ -1,1 +1,1 @@
-Simple operating systems simulation. Will fill in details of how it works soon. 
+Simple operating systems simulation with priority interrupts, paging, external device queuing, CPU usage statistics. As a big plus, I did all the malloc'ing myself, and tested the program with Valgrind - no memory leaks! 
